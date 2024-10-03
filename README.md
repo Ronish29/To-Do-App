@@ -15,12 +15,12 @@ To set up the project on your local machine:
 
 1. Clone this repository to your local machine using the command:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ronish29/To-Do-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd To-Do-App
    ```
 
 3. Install the required dependencies using npm:
